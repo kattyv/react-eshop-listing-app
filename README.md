@@ -1,9 +1,11 @@
 # Project description *(Work in progress)*
-Simple shopping app, made with React (Type Script) and Vite. App will be styled with MUI components.
+Simple product listing app, made with React (Type Script) and Vite.
+Product data is managed using React built-in Context API. 
+The app is styled with MUI library components.
 
 ## Project features:
 - [x] Product listing, using data from Fake Store REST API
-- [x] Details page for product
+- [x] Product details page
 - [ ] Shopping cart *(TODO)*
 
 ## Project preview
